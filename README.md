@@ -41,6 +41,6 @@ I used `ts-node` for a REPL and also to execute the TypeScript files, usually `c
 
 ...teach me how to do things better! :smiley: I welcome any and all feedback/criticism/critiques/helpful notes/anything really!
 
-The code in this repo is *_not cleaned up_* at all, nor *_attempting to be the most efficient as possible_*. It's just me trying to quickly code up a solution to get to the correct answer, since the amount of points I get on the leaderboard corresponds with how quickly I answer the problem.
+The code in this repo is **_not cleaned up_** at all, nor **_attempting to be the most efficient as possible_**. It's just me trying to quickly code up a solution to get to the correct answer, since the amount of points I get on the leaderboard corresponds with how quickly I answer the problem.
 
-Also, to co-workers, friends, family, recruiters?: *_this is also not an accurate representation of how my code at my job looks._* It's actually much better than my code at work. :laughing: 
+Also, to co-workers, friends, family, recruiters?: **_this is not an accurate representation of how my code at my job looks._** It's actually much better than my code at work. :laughing: 
