@@ -1,6 +1,16 @@
-# Advent of Code 2018
+# :christmas_tree: Advent of Code 2018 :christmas_tree:
 
 A repo for my solutions to the 2018 edition of [Advent of Code](https://adventofcode.com). I'm using TypeScript.
+
+## What is Advent of Code?
+
+From the [website](https://adventofcode.com): 
+
+    "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other."
+    
+I'm in a friendly competition for this year with some of my co-workers at [CCRi](https://www.ccri.com).
+
+## Solutions by day
 
 - [Day 1](https://github.com/jdk2pq/adventOfCode2018/tree/master/day1)
 - [Day 2](https://github.com/jdk2pq/adventOfCode2018/tree/master/day2)
@@ -37,10 +47,16 @@ I used `ts-node` for a REPL and also to execute the TypeScript files, usually `c
     cd {dayYouWantToRun}
     ts-node {partYouWantToRun}.ts
     
+Each day also has a `README` in the directory with commands to run the code.
+    
 ## If my solutions are awful...
 
 ...teach me how to do things better! :smiley: I welcome any and all feedback/criticism/critiques/helpful notes/anything really!
 
 The code in this repo is **_not cleaned up_** at all, nor **_attempting to be the most efficient as possible_**. It's just me trying to quickly code up a solution to get to the correct answer, since the amount of points I get on the leaderboard corresponds with how quickly I answer the problem.
 
-Also, to co-workers, friends, family, recruiters?: **_this is not an accurate representation of how my code at my job looks._** It's actually much better than my code at work. (just kidding :laughing: )
+Also, to co-workers, friends, family, recruiters?: **_this is not an accurate representation of how my code at my job looks._** It's actually much better than my code at work. (just kidding :laughing:)
+
+## License
+
+MIT License. Copyright (c) 2018 Jake Kenneally
