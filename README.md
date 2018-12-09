@@ -6,7 +6,11 @@ A repo for my solutions to the 2018 edition of [Advent of Code](https://adventof
 
 From the [website](https://adventofcode.com): 
 
-    "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other."
+    "Advent of Code is an Advent calendar of small programming puzzles
+    for a variety of skill sets and skill levels that can be solved in
+    any programming language you like. People use them as a speed
+    contest, interview prep, company training, university coursework,
+    practice problems, or to challenge each other."
     
 I'm in a friendly competition for this year with some of my co-workers at [CCRi](https://www.ccri.com).
 
@@ -59,4 +63,6 @@ Also, to co-workers, friends, family, recruiters?: **_this is not an accurate re
 
 ## License
 
-MIT License. Copyright (c) 2018 Jake Kenneally
+MIT License. Copyright (c) 2018 Jake Kenneally.
+
+Really, just feel free to use and remix as you want. I don't need credit, but it'd be awesome if you gave it!
