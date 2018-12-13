@@ -40,6 +40,8 @@ I'm in a friendly competition for this year with some of my co-workers at [CCRi]
 - [Day 22](https://github.com/jdk2pq/adventOfCode2018/tree/master/day22)
 - [Day 23](https://github.com/jdk2pq/adventOfCode2018/tree/master/day23)
 - [Day 24](https://github.com/jdk2pq/adventOfCode2018/tree/master/day24)
+- :christmas_tree:[Day 25](https://github.com/jdk2pq/adventOfCode2018/tree/master/day25):gift:
+
 
 ## Running my solutions
 
